@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772621841403
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772621959546
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772639760685
+    },
+    "self-improving-1-2-10": {
+      "version": "1.0.0",
+      "installedAt": 1772994331023
+    },
+    "self-evolution": {
+      "version": "2.0.0",
+      "installedAt": 1773019276598
+    },
+    "Auto-Redbook-Skills": {
+      "version": "0.1.0",
+      "installedAt": 1773019402796
+    },
+    "edge-tts": {
+      "version": "2.0.0",
+      "installedAt": 1773065645234
+    },
+    "kokoro-tts": {
+      "version": "0.1.0",
+      "installedAt": 1773066305166
+    }
+  }
+}
